@@ -78,3 +78,12 @@
 参考 [conda使用指南.md](./docs/conda使用指南.md)安装所需要的依赖环境
 
 每个章节目录下包含多个 Jupyter Notebook (.ipynb) 文件和部分 Python 脚本，按照数字顺序学习效果更佳。
+
+## 参考资料
+官网地址：https://www.langchain.com/langchain
+
+官网文档：https://python.langchain.com/docs/introduction/
+
+API文档：https://python.langchain.com/api_reference/
+
+github地址：https://github.com/langchain-ai/langchain
