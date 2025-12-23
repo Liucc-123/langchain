@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "6239094db47bda79",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc012634c0450f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4e6ca1112b30359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/第03章 LangChain使用之Chain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第03章 LangChain使用之Chain"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35cd7160a5c5ace2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6854d638425bec55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b7e2c18be9d2dba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1aa67d9819f7b8a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "982235e7326c5392",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff5029bbbed173d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "eae2a0e350e45c29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2754e314ddfc7143",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/第03章 LangChain使用之Chain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第03章 LangChain使用之Chain 的反向链接列表"
+            }
+          },
+          {
+            "id": "7956012a3151e9d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/第03章 LangChain使用之Chain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第03章 LangChain使用之Chain 的出链列表"
+            }
+          },
+          {
+            "id": "3f69e409f3289b76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "66902217d44c4d48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/第03章 LangChain使用之Chain.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "第03章 LangChain使用之Chain 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "d4e6ca1112b30359",
+  "lastOpenFiles": [
+    "codes/chapter06-agents/01-调用工具之传统方式的使用.ipynb",
+    "codes/chapter06-agents",
+    "codes/chapter05-tools/02-工具定义及使用.ipynb",
+    "codes/chapter05-tools/01-工具概述.ipynb",
+    "codes/chapter05-tools",
+    "codes/chapter04-memory/03-Memory模块其他组件的使用.ipynb",
+    "codes/chapter04-memory/02-基础memory的使用.ipynb",
+    "codes/chapter04-memory/01-自定义实现memory记忆功能.ipynb",
+    "codes/chapter04-memory",
+    "codes/chapter02-model IO/01-模型的调用.ipynb",
+    "docs/assets/Pasted image 20251022214656.png",
+    "docs/第03章 LangChain使用之Chain.md"
+  ]
+}
